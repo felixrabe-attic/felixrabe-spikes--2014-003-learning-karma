@@ -64,7 +64,7 @@ module.exports = function(config) {
     // if true, Karma captures browsers, runs the tests and exits
     singleRun: false,
 
-    browserDisconnectTimeout: 15000,
+    browserDisconnectTimeout: 1000,
 
     browserDisconnectTolerance: 100,
 
