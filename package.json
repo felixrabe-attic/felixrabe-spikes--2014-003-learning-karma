@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "karma": "^0.12.23",
+    "karma-mocha": "^0.1.9",
+    "mocha": "^1.21.4"
+  }
+}
